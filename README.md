@@ -7,8 +7,8 @@ uso para desenvolver websites.
 
 já vem com algumas dependências
 
-*bulmacss
-*font awesome
+* bulmacss
+* font awesome
 
 
 para usar basta dar um clone no repositório, e editar.
