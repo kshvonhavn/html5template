@@ -2,7 +2,7 @@
 Template html5 para web design
 
 
-uso para desenvolver websites.
+Uso para desenvolver websites, pronto para o desenvolvimento mobile.
 
 
 já vem com algumas dependências
@@ -11,5 +11,5 @@ já vem com algumas dependências
 * font awesome
 
 
-para usar basta dar um clone no repositório, e editar.
+para usar basta dar um clone no repositório e editar.
 
